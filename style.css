@@ -1,0 +1,189 @@
+
+
+#bgpaddington{background-image: url("images/bg.png");
+	background-repeat: repeat;
+    background-attachment: fixed;
+    font-family: Futura;
+}
+.navbar { 
+	background-color: #F6EA4E;
+	
+}
+.navbar-nav {
+	float: right;
+	font-size: 28px;
+	padding-top: 15px;
+}
+.navbar-brand, .navbar-nav > li > a {
+	text-shadow: none;
+	color: #FFA839;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    color: #F6EA4E;
+    background-color: #39BBFF;
+}
+.navbar-toggle {
+	background-color: #0C62D0;
+}
+
+.main-container {
+	padding: 20px;
+	margin-top: 400px;
+	max-width: 1000px;
+	margin: auto;
+}
+
+#about{
+	background-color: #39BBFF;
+	border-radius: 10px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	margin-top: 60px;
+}
+
+.aboutimg{
+	float: right;
+}
+
+#store{
+	background-color: #FFA839;
+	margin-top: 10px;
+	border-radius: 10px;
+	padding-bottom: 20px;
+	;
+}
+
+#history{
+	margin-top: 10px;
+	background-color: #39BBFF;
+	border-radius: 10px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	
+}
+
+.press-car{
+	text-align: center;
+	font-style: bold;
+	font-size: 16px;
+	color: #E81E14;
+}
+
+#myCarousel{
+	
+	font-size: 12px;
+	font-style: italic;
+	color: black;
+}
+
+.clearboth{ clear: both; }
+
+img{padding: 7px;}
+
+.caption{
+	text-align: center;
+	font-style: oblique;
+}
+
+.buynow{
+	background-color: #E81E14;
+	color: #000;
+	border: 1px solid black;
+	border-radius: 10px;
+	font-size: 9px;
+	text-align: center;
+	max-width: 100px;
+	margin-left: 0;
+	margin-right: 0;
+	margin: 0 auto;
+}
+
+.buynow:hover{
+	background-image: url("buttonbg001.png");
+	color: white;
+	text-align: center;
+}
+
+.addtocart{
+	background-color: #F6EA4E;
+	border: 1px solid black;
+	font-size: 10px;
+	border-radius: 10px;
+	text-align: center;
+	color: #1165D2;
+	max-width: 100px;
+	margin-left: 0;
+	margin-right: 0;
+	margin: 0 auto;
+
+}
+.addtocart:hover {
+color:#FFA839;
+}
+.storethumb{
+	text-align: center;
+}
+
+#contact{
+	margin-top: 10px;
+	background-color: #39BBFF;
+	border-radius: 10px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+}
+ #social li{
+ 	
+	list-style-type: none; 
+}
+
+#social li a{
+	float: right;
+	height: 23px;
+	width: 23px;
+	text-indent: -9999px;
+	background-image: url("images/social-icons.png");
+}
+
+#social .tw{
+	background-position: 0 0;
+
+}
+
+#social .tw:hover{
+	background-position: 0 -23px;
+}
+#social .fb{
+	background-position: -23px 0;
+
+}
+
+#social .fb:hover{
+	background-position: -23px -23px;
+}
+#social .rss{
+	background-position: -46px 0;
+
+}
+
+#social .rss:hover{
+	background-position: -46px -69px;
+}
+#social .plus{
+	background-position: 23px 0;
+
+}
+
+#social .plus:hover{
+	background-position: 23px -23px;
+}
+
+.copyright{
+	float: right;
+}
+
+.center{ 
+	margin: 0 auto;
+}
